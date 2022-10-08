@@ -1,1 +1,1 @@
-# cheminformatics
+# ML in chemistry
